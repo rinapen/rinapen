@@ -1,16 +1,12 @@
-## Hi there 👋
+  <pre>
+  # 📅 2025年2月8日
+  **🎯 残り 326 日で今年が終わります！**
+  </pre>
 
-<!--
-**xbkv/xbkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <pre>
+  # 👋 Hi there, I'm Tabemono.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🏡 **Location:** Tokyo, Japan  
+  - 🎂 **Age:** 18  
+  - 💻 **Started Coding:** Since October 2022  
+  </pre>

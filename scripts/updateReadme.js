@@ -7,21 +7,19 @@ const fs = require('fs');
   const endOfYear = new Date(today.getFullYear(), 11, 31); // 12月31日
   const daysLeft = Math.ceil((endOfYear - today) / (1000 * 60 * 60 * 24));
 
-  const content = `
-# 📅 ${currentDate}
-**🎯 残り ${daysLeft} 日で今年が終わります！**
+  const content = `\
+  <pre>
+  # 📅 ${currentDate}
+  **🎯 残り ${daysLeft} 日で今年が終わります！**
+  </pre>
 
----
+  <pre>
+  # 👋 Hi there, I'm Tabemono.
 
-# 👋 Hi there, I'm Tabemono!
-
-- 🏡 **Location:** Tokyo, Japan  
-- 🎂 **Age:** 18  
-- 💻 **Started Coding:** Since October 2022  
-
----
-
-_This README is automatically updated using **GitHub Actions**._
+  - 🏡 **Location:** Tokyo, Japan  
+  - 🎂 **Age:** 18  
+  - 💻 **Started Coding:** Since October 2022  
+  </pre>
 `;
 
   fs.writeFileSync('README.md', content);

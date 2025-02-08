@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -10,29 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: checkout repo
+    - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: setup Node.js
+    - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '18'
 
-    - name: install
-      run: npm install axios && npm install dotenv
-
-    - name: renew
-      env:
-        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}  # ✅ 環境変数として渡す
-        WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+    - name: Update README
       run: node scripts/updateReadme.js
 
-    - name: commit & push
+    - name: Commit & Push Changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add README.md
-        git commit -m "renew README: $(date)"
-        git push
+        git diff --cached --quiet || (git commit -m "Auto-update README: $(date)" && git push)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
