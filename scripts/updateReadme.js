@@ -8,18 +8,17 @@ const fs = require('fs');
   const daysLeft = Math.ceil((endOfYear - today) / (1000 * 60 * 60 * 24));
 
   const content = `\
-  <pre>
   # 📅 ${currentDate}
   **🎯 残り ${daysLeft} 日で今年が終わります！**
-  </pre>
-
-  <pre>
+  
+  ---
   # 👋 Hi there, I'm Tabemono.
 
   - 🏡 **Location:** Tokyo, Japan  
   - 🎂 **Age:** 18  
   - 💻 **Started Coding:** Since October 2022  
-  </pre>
+  ---
+  
 `;
 
   fs.writeFileSync('README.md', content);
