@@ -11,7 +11,7 @@ const fs = require('fs');
   # 📅 ${currentDate}
   **🎯 残り ${daysLeft} 日で今年が終わります！**
   
-  # 👋 Hi there, I'm Tabemono.
+  # 👋 Hi there, I'm tabemono.
 
   - 🏡 **Location:** Tokyo, Japan  
   - 🎂 **Age:** 18  
