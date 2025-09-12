@@ -125,12 +125,12 @@ const getRandomQuote = () => {
 
   const content = `\
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=tabemono&fontSize=50&fontAlign=50&fontAlignY=40&desc=Developer%20Profile&descAlign=50&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rinapen&fontSize=50&fontAlign=50&fontAlignY=40&desc=Developer%20Profile&descAlign=50&descAlignY=55" alt="Header" />
 </div>
 
 <div align="center">
 
-# tabemono の GitHub プロフィール
+# りなぺんのGitHub
 
 ${asciiArt}
 

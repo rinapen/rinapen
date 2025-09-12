@@ -1,26 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=tabemono&fontSize=50&fontAlign=50&fontAlignY=40&desc=Developer%20Profile&descAlign=50&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rinapen&fontSize=50&fontAlign=50&fontAlignY=40&desc=Developer%20Profile&descAlign=50&descAlignY=55" alt="Header" />
 </div>
 
 <div align="center">
 
-# tabemono の GitHub プロフィール
+# りなぺんのGitHub
 
-    ╔═══════════════════════════════╗
-    ║       ようこそ 俺の世界へ        ║
-    ║                                   ║
-    ║  プログラミング歴: 2022年10月〜     ║
-    ║  出身地: 東京                     ║
-    ║  現在: 飽きた                     ║
-    ║                                   ║
-    ║          一緒に作ろうよ            ║
-    ╚═══════════════════════════════╝
+    ╭───────────────────────────────╮
+    │      俺 の GitHub                │
+    ├───────────────────────────────┤
+    │  無駄なものばかり                │
+    │  なんも考えてない               │
+    │  なんも考えてない               │
+    │  なんも考えてない               │
+    ╰───────────────────────────────╯
 
 <table>
   <tr>
     <td align="center">
       <strong>2025年9月12日</strong><br/>
-      <sub>現在時刻: 12:22:47</sub>
+      <sub>現在時刻: 12:25:13</sub>
     </td>
     <td align="center">
       <strong>今年の残り日数</strong><br/>
@@ -101,7 +100,7 @@
 ## 今日の一言
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%A4%E3%81%91%E3%81%A6%E3%81%A6%E3%82%82%E6%B1%97%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E6%98%8E%E6%97%A5%E3%82%82%E4%BB%95%E4%BA%8B%E3%81%8B...%E3%82%82%E3%81%86%E5%AB%8C%E3%81%A0..." alt="Typing SVG" />
 </div>
 
 ---
