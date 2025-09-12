@@ -1,26 +1,18 @@
-<<<<<<< HEAD
 <div align="center">
-=======
-  # 📅 2025年9月12日
-  **🎯 残り 110 日で今年が終わります！**
-  
-  # 👋 Hi there, I'm tabemono.
->>>>>>> ea3c9f74968213b4785f10bc6f05517833fffb8b
 
 # tabemono の GitHub プロフィール
 
-    ┌───────────────────────────────┐
-    │    開発者プロフィール              │
+    ╭───────────────────────────────╮
+    │      俺 の GitHub                │
     ├───────────────────────────────┤
-    │  名前: おれ                     │
-    │  年齢: 18歳                     │
-    │  場所: 東京                     │
-    │  経験: 2年以上                  │
-    │  状況: 夜職wwwwwww             │
-    └───────────────────────────────┘
+    │  無駄なものばかり                │
+    │  なんも考えてない               │
+    │  なんも考えてない               │
+    │  なんも考えてない               │
+    ╰───────────────────────────────╯
 
-## 2025年9月12日 | 11:56:05
-**残り 110 日で今年が終わります！** | 東京の天気 | APIキーが必要
+## 2025年9月12日 | 12:16:13
+**残り 110 日で今年が終わる... 早く終わってくれ** | 東京の天気 | APIキー設定が必要
 
 ---
 
@@ -40,6 +32,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -56,7 +50,7 @@
 
 ## 今日の一言
 
-今日も一日無駄だった...
+プログラミングなんてクソだ...
 
 ---
 
@@ -72,8 +66,7 @@
 ## 連絡先
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xbkv)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arca_rina)
 
 ---
 

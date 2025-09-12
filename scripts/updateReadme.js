@@ -1,6 +1,6 @@
 const fs = require('fs');
 const axios = require('axios');
-
+require('dotenv').config();
 // 暗号化されたメッセージ（Base64）
 const secretMessage = Buffer.from('ぺろぺろぺろぺろぺろ。このREADMEを見てくれたのか...お前も鬼にならないか?', 'utf8').toString('base64');
 
@@ -43,20 +43,21 @@ const getAsciiArt = () => {
 const getWeatherInfo = async () => {
   try {
     // OpenWeatherMap APIを使用（無料プラン）
-    const response = await axios.get('https://api.openweathermap.org/data/2.5/weather', {
-      params: {
-        q: 'Tokyo,JP',
-        appid: process.env.WEATHER_API_KEY || 'demo', // 実際のAPIキーが必要
-        units: 'metric',
-        lang: 'ja'
-      }
-    });
-    
-    const weather = response.data;
-    const weatherText = getWeatherEmoji(weather.weather[0].main);
-    return `${weatherText} ${weather.main.temp.toFixed(1)}°C | ${weather.weather[0].description}`;
+      const response = await axios.get('https://api.openweathermap.org/data/2.5/weather', {
+        params: {
+          q: 'Tokyo,JP',
+          appid: process.env.WEATHER_API_KEY || 'demo', // 実際のAPIキーが必要
+          units: 'metric',
+          lang: 'ja'
+        }
+      });
+      
+      const weather = response.data;
+      console.log(weather);
+      const weatherText = getWeatherEmoji(weather.weather[0].main);
+      return `${weatherText} ${weather.main.temp.toFixed(1)}°C | ${weather.weather[0].description}`;
   } catch (error) {
-    return '東京の天気 | APIキーが必要';
+    return '天気は金なしだから表示できないでちゅ';
   }
 };
 
@@ -130,7 +131,7 @@ const getRandomQuote = () => {
 ${asciiArt}
 
 ## ${currentDate} | ${currentTime}
-**残り ${daysLeft} 日で今年が終わります！** | ${weatherInfo}
+**残り ${daysLeft} 日で今年が終わる... 早く終わってくれ** | ${weatherInfo}
 
 ---
 
@@ -150,6 +151,8 @@ ${asciiArt}
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -182,8 +185,7 @@ ${secretMessage}
 ## 連絡先
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xbkv)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arca_rina)
 
 ---
 
