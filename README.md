@@ -19,16 +19,16 @@
 <table>
   <tr>
     <td align="center">
-      <strong>2025年9月12日</strong><br/>
-      <sub>現在時刻: 12:28:09</sub>
+      <strong>2025年9月14日</strong><br/>
+      <sub>現在時刻: 12:23:16</sub>
     </td>
     <td align="center">
       <strong>今年の残り日数</strong><br/>
-      <sub>110 日で今年が終わる... 早く終わってくれ</sub>
+      <sub>108 日で今年が終わる... 早く終わってくれ</sub>
     </td>
     <td align="center">
       <strong>現在の天気</strong><br/>
-      <sub>雨 27.4°C | 弱いにわか雨</sub>
+      <sub>曇り 31.5°C | 曇りがち</sub>
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@
 ## 今日の一言
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AA%E3%82%93%E3%81%A6%E3%82%AF%E3%82%BD%E3%81%A0..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E4%BB%8A%E6%97%A5%E3%82%82%E4%B8%80%E6%97%A5%E7%84%A1%E9%A7%84%E3%81%A0%E3%81%A3%E3%81%9F..." alt="Typing SVG" />
 </div>
 
 ---
