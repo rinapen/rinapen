@@ -1,0 +1,25 @@
+{
+  "name": "xbkv",
+  "version": "1.0.0",
+  "description": "<!--\r **xbkv/xbkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbkv/xbkv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbkv/xbkv/issues"
+  },
+  "homepage": "https://github.com/xbkv/xbkv#readme",
+  "dependencies": {
+    "axios": "^1.12.1",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security"
+  }
+}

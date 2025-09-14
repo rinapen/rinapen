@@ -21,6 +21,9 @@ jobs:
       with:
         node-version: '18'
 
+    - name: Install dependencies
+      run: npm install
+
     - name: Update README
       run: node scripts/updateReadme.js
 
