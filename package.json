@@ -1,22 +1,22 @@
 {
-  "name": "xbkv",
+  "name": "rinapen",
   "version": "1.0.0",
-  "description": "<!--\r **xbkv/xbkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "description": "<!--\r **rinapen/rinapen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xbkv/xbkv.git"
+    "url": "git+https://github.com/rinapen/rinapen.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xbkv/xbkv/issues"
+    "url": "https://github.com/rinapen/rinapen/issues"
   },
-  "homepage": "https://github.com/xbkv/xbkv#readme",
+  "homepage": "https://github.com/rinapen/rinapen#readme",
   "dependencies": {
     "axios": "^1.12.1",
     "dotenv": "^16.4.7",
