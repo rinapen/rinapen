@@ -6,25 +6,24 @@
 
 # りなぺんのGitHub
 
-    ╔═══════════════════════════════╗
-    ║       ようこそ 俺の世界へ        ║
-    ║                                   ║
-    ║  プログラミング歴: 2022年10月〜     ║
-    ║  出身地: 東京                     ║
-    ║  現在: 飽きた                     ║
-    ║                                   ║
-    ║          一緒に作ろうよ            ║
-    ╚═══════════════════════════════╝
+    ╭───────────────────────────────╮
+      │      俺 の GitHub              │
+    ├───────────────────────────────┤
+      │  無駄なものばかり              │
+    │  なんも考えてない               │
+    │  なんも考えてない               │
+    │  なんも考えてない               │
+    ╰───────────────────────────────╯
 
 <table>
   <tr>
     <td align="center">
-      <strong>2025年11月2日</strong><br/>
-      <sub>現在時刻: 10:03:21</sub>
+      <strong>2025年11月3日</strong><br/>
+      <sub>現在時刻: 10:02:31</sub>
     </td>
     <td align="center">
       <strong>今年の残り日数</strong><br/>
-      <sub>59 日で今年が終わる... 早く終わってくれ</sub>
+      <sub>58 日で今年が終わる... 早く終わってくれ</sub>
     </td>
     <td align="center">
       <strong>現在の天気</strong><br/>
@@ -101,7 +100,7 @@
 ## 今日の一言
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E6%9C%80%E5%88%9D%E3%81%AF%E5%8B%95%E3%81%8F%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%91%E3%80%81%E5%BE%8C%E3%81%A7%E7%BE%8E%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E4%BB%8A%E6%97%A5%E3%82%82%E4%B8%80%E6%97%A5%E7%84%A1%E9%A7%84%E3%81%A0%E3%81%A3%E3%81%9F..." alt="Typing SVG" />
 </div>
 
 ---
