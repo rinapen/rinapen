@@ -6,20 +6,21 @@
 
 # りなぺんのGitHub
 
-    ╭───────────────────────────────╮
-      │      俺 の GitHub              │
+    ┌───────────────────────────────┐
+    │    開発者プロフィール              │
     ├───────────────────────────────┤
-      │  無駄なものばかり              │
-    │  なんも考えてない               │
-    │  なんも考えてない               │
-    │  なんも考えてない               │
-    ╰───────────────────────────────╯
+    │  名前: おれ                     │
+    │  年齢: 18歳                     │
+    │  場所: 東京                     │
+    │  経験: 2年以上                  │
+    │  状況: 夜職wwwwwww             │
+    └───────────────────────────────┘
 
 <table>
   <tr>
     <td align="center">
       <strong>2025年11月6日</strong><br/>
-      <sub>現在時刻: 10:00:29</sub>
+      <sub>現在時刻: 10:56:40</sub>
     </td>
     <td align="center">
       <strong>今年の残り日数</strong><br/>
@@ -27,7 +28,7 @@
     </td>
     <td align="center">
       <strong>現在の天気</strong><br/>
-      <sub>天気は金なしだから表示できないでちゅ</sub>
+      <sub>曇り 18.7°C | 曇りがち</sub>
     </td>
   </tr>
 </table>
@@ -87,8 +88,8 @@
 ## GitHub 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=350&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2" alt="Top Languages" width="350"/>
 </div>
 
 <div align="center">
@@ -100,7 +101,7 @@
 ## 今日の一言
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84...%E3%81%A7%E3%82%82%E3%81%BE%E3%81%A0%E6%AD%BB%E3%81%AD%E3%81%AA%E3%81%84..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AA%E3%82%93%E3%81%A6%E3%82%AF%E3%82%BD%E3%81%A0..." alt="Typing SVG" />
 </div>
 
 ---

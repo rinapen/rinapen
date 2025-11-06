@@ -45,7 +45,7 @@ const getWeatherInfo = async () => {
     // OpenWeatherMap APIを使用（無料プラン）
       const response = await axios.get('https://api.openweathermap.org/data/2.5/weather', {
         params: {
-          q: 'Tokyo,JP',
+          q: 'Osaka,JP',
           appid: process.env.WEATHER_API_KEY || 'demo', // 実際のAPIキーが必要
           units: 'metric',
           lang: 'ja'
@@ -206,8 +206,8 @@ ${asciiArt}
 ## GitHub 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=350&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2" alt="Top Languages" width="350"/>
 </div>
 
 <div align="center">
