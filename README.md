@@ -9,22 +9,21 @@
     ┌───────────────────────────────┐
     │    開発者プロフィール              │
     ├───────────────────────────────┤
-    │  名前: おれ                     │
     │  年齢: 18歳                     │
-    │  場所: 東京                     │
-    │  経験: 2年以上                  │
-    │  状況: 夜職wwwwwww             │
+    │  拠点: 大阪                     │
+    │  経験: 4年以上                  │
+    │  専門: フルスタック開発           │
     └───────────────────────────────┘
 
 <table>
   <tr>
     <td align="center">
       <strong>2025年11月6日</strong><br/>
-      <sub>現在時刻: 10:56:40</sub>
+      <sub>現在時刻: 11:01:20</sub>
     </td>
     <td align="center">
       <strong>今年の残り日数</strong><br/>
-      <sub>55 日で今年が終わる... 早く終わってくれ</sub>
+      <sub>残り 55 日を有効に活用しましょう</sub>
     </td>
     <td align="center">
       <strong>現在の天気</strong><br/>
@@ -40,7 +39,7 @@
 <table>
   <tr>
     <td><strong>居住地</strong></td>
-    <td>東京、日本 もうすぐ大阪引っ越す</td>
+    <td>大阪、日本</td>
   </tr>
   <tr>
     <td><strong>年齢</strong></td>
@@ -52,7 +51,7 @@
   </tr>
   <tr>
     <td><strong>現在学習中</strong></td>
-    <td>うーん、、SNSのチートwwwww</td>
+    <td>モダンなWebフレームワークとAI/ML技術</td>
   </tr>
   <tr>
     <td><strong>興味分野</strong></td>
@@ -60,7 +59,7 @@
   </tr>
   <tr>
     <td><strong>目標</strong></td>
-    <td>お金持ちになってニートになりたい！！！！！</td>
+    <td>技術力を高め、社会に価値を提供するエンジニアになること</td>
   </tr>
 </table>
 
@@ -98,10 +97,10 @@
 
 ---
 
-## 今日の一言
+## 今日の豆知識
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AA%E3%82%93%E3%81%A6%E3%82%AF%E3%82%BD%E3%81%A0..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=DRY%E5%8E%9F%E5%89%87%EF%BC%9ADon't%20Repeat%20Yourself%20-%20%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%87%8D%E8%A4%87%E3%82%92%E9%81%BF%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E4%BF%9D%E5%AE%88%E6%80%A7%E3%81%8C%E5%90%91%E4%B8%8A%E3%81%97%E3%81%BE%E3%81%99" alt="Typing SVG" />
 </div>
 
 ---
@@ -113,11 +112,11 @@
 </div>
 
 ```text
-44G644KN44G644KN44G644KN44G644KN44G644KN44CC44GT44GuUkVBRE1F44KS6KaL44Gm44GP44KM44Gf44Gu44GLLi4u44GK5YmN44KC6ay844Gr44Gq44KJ44Gq44GE44GLPw==
+57aZ57aa55qE44Gq5a2m57+S44Go5a6f6Le144GM44CB44Ko44Oz44K444OL44Ki44Go44GX44Gm44Gu5oiQ6ZW344KS5pSv44GI44G+44GZ44CC
 ```
 
 <div align="center">
-  <sub><em>ヒント: Base64デコードしろや！</em></sub>
+  <sub><em>ヒント: Base64デコードしてみてください</em></sub>
 </div>
 
 ---
@@ -133,11 +132,11 @@
 
 ---
 
-### 豆知識
+### 更新情報
 <div align="center">
   <img src="https://img.shields.io/badge/README-自動更新-blue?style=for-the-badge" alt="Auto Update" />
   <br/>
-  <sub>このREADMEは毎日自動更新されるとおもう。多分、知らんけど</sub>
+  <sub>このREADMEは毎日自動更新されます（GitHub Actions使用）</sub>
 </div>
 
 <div align="center">
