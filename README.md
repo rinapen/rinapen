@@ -39,7 +39,7 @@
 ## 💡 Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E6%88%A6%E7%95%A5%E3%82%92%E9%81%A9%E5%88%87%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B9%E9%80%9F%E5%BA%A6%E3%81%8C%E5%A4%A7%E5%B9%85%E3%81%AB%E5%90%91%E4%B8%8A%E3%81%97%E3%81%BE%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E6%88%A6%E7%95%A5%E3%81%AF%E7%81%BD%E5%AE%B3%E5%BE%A9%E6%97%A7%E3%81%AE%E8%A6%81%E3%81%A7%E3%81%99%E3%80%82%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AA%E3%83%86%E3%82%B9%E3%83%88%E3%82%82%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB" alt="Tech Tip" />
 </div>
 
 ## 📫 Connect
