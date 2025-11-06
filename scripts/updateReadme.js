@@ -109,33 +109,58 @@ const getRandomTip = () => {
   return tips[Math.floor(Math.random() * tips.length)];
 };
 
+// 年の進捗を計算
+const getYearProgress = () => {
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 1);
+  const end = new Date(now.getFullYear(), 11, 31, 23, 59, 59);
+  const progress = ((now - start) / (end - start)) * 100;
+  return progress.toFixed(2);
+};
+
+// プログレスバーを生成
+const generateProgressBar = (percentage, width = 40) => {
+  const filled = Math.round((percentage / 100) * width);
+  const empty = width - filled;
+  return '█'.repeat(filled) + '░'.repeat(empty);
+};
+
 // メイン実行関数
 (async () => {
   const today = new Date();
   const currentDate = today.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
   const currentTime = getCurrentTime();
 
-  const endOfYear = new Date(today.getFullYear(), 11, 31);
-  const daysLeft = Math.ceil((endOfYear - today) / (1000 * 60 * 60 * 24));
-  
+  const yearProgress = getYearProgress();
+  const progressBar = generateProgressBar(yearProgress);
   const weatherInfo = await getWeatherInfo();
   const randomTip = getRandomTip();
 
   const content = `\
 <div align="center">
 
-# 👨‍💻 Rinapen
+# Rinapen
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rinapen&color=61dafb&style=flat-square&label=Profile+Views)](https://github.com/rinapen)
-![Location](https://img.shields.io/badge/📍_大阪,_日本-black?style=flat-square)
-![Experience](https://img.shields.io/badge/💼_4年以上-black?style=flat-square)
-![Status](https://img.shields.io/badge/🚀_Learning-black?style=flat-square)
+![Location](https://img.shields.io/badge/Location-大阪,_日本-black?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-4年以上-black?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Learning-black?style=flat-square)
+
+---
+
+**${today.getFullYear()}年の進捗:** \`${yearProgress}%\` 完了
+
+\`\`\`
+${progressBar}  ${yearProgress}%
+\`\`\`
+
+**現在の天気 (大阪):** ${weatherInfo}
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" alt="GitHub Stats"/>
@@ -143,10 +168,10 @@ const getRandomTip = () => {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinapen&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=rinapen&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -160,13 +185,13 @@ const getRandomTip = () => {
 
 </div>
 
-## 💡 Daily Tech Tip
+## Daily Tech Tip
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=${encodeURIComponent(randomTip)}" alt="Tech Tip" />
 </div>
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
@@ -176,7 +201,7 @@ const getRandomTip = () => {
 </div>
 
 <div align="center">
-  <sub>⚡ Updated daily via GitHub Actions | ${currentDate}</sub>
+  <sub>Updated daily via GitHub Actions | ${currentDate}</sub>
 </div>
 `;
 
