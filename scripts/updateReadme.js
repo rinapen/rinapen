@@ -167,9 +167,6 @@ ${progressBar}  ${yearProgress}%
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=rinapen&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
 
 ## Tech Stack
 
