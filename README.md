@@ -11,13 +11,13 @@
 
 ---
 
-**2025年の進捗:** `84.79%` 完了
+**2025年の進捗:** `84.94%` 完了
 
 ```
-██████████████████████████████████░░░░░░  84.79%
+██████████████████████████████████░░░░░░  84.94%
 ```
 
-**現在の天気 (大阪):** 曇り 19.2°C | 曇りがち
+**現在の天気 (大阪):** 天気情報を取得できませんでした
 
 </div>
 
@@ -46,7 +46,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E9%81%A9%E5%88%87%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E3%80%81%E3%82%AF%E3%82%A8%E3%83%AA%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%8C%E5%8A%87%E7%9A%84%E3%81%AB%E5%90%91%E4%B8%8A%E3%81%97%E3%81%BE%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E6%9C%80%E5%B0%8F%E6%A8%A9%E9%99%90%E3%81%AE%E5%8E%9F%E5%89%87%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E6%9C%80%E5%B0%8F%E5%8C%96%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect
@@ -59,5 +59,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2025年11月6日</sub>
+  <sub>Updated daily via GitHub Actions | 2025年11月7日</sub>
 </div>
