@@ -11,10 +11,10 @@
 
 ---
 
-**2025年の進捗:** `85.77%` 完了
+**2025年の進捗:** `86.04%` 完了
 
 ```
-██████████████████████████████████░░░░░░  85.77%
+██████████████████████████████████░░░░░░  86.04%
 ```
 
 **現在の天気 (大阪):** 天気情報を取得できませんでした
@@ -46,7 +46,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA(TDD)%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E3%83%90%E3%82%B0%E3%82%92%E6%97%A9%E6%9C%9F%E3%81%AB%E7%99%BA%E8%A6%8B%E3%81%97%E3%80%81%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%8C%E5%AE%B9%E6%98%93%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96%E3%82%A8%E3%83%B3%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E5%B9%85%E5%BA%83%E3%81%84%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect
@@ -59,5 +59,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2025年11月10日</sub>
+  <sub>Updated daily via GitHub Actions | 2025年11月11日</sub>
 </div>
