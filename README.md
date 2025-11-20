@@ -25,7 +25,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut-vertical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 
@@ -46,7 +46,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AF%E5%93%81%E8%B3%AA%E5%90%91%E4%B8%8A%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E3%80%81%E7%9F%A5%E8%AD%98%E5%85%B1%E6%9C%89%E3%81%AE%E5%A0%B4%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%8F%AF%E8%AA%AD%E6%80%A7%E3%81%AF%E4%BF%9D%E5%AE%88%E6%80%A7%E3%81%AB%E7%9B%B4%E7%B5%90%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E6%98%8E%E7%A2%BA%E3%81%AA%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87%E3%82%92%E5%BF%83%E3%81%8C%E3%81%91%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
 </div>
 
 ## Connect
@@ -54,7 +54,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/rinapen)
-[![Email](https://img.shields.io/badge/Email-linden.classes__7e%40icloud.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:linden.classes_7e@icloud.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://x.com/arca_rina)
 
 </div>
 

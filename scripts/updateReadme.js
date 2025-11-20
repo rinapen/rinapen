@@ -164,7 +164,7 @@ ${progressBar}  ${yearProgress}%
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut-vertical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 
@@ -193,7 +193,7 @@ ${progressBar}  ${yearProgress}%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/rinapen)
-[![Email](https://img.shields.io/badge/Email-linden.classes__7e%40icloud.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:linden.classes_7e@icloud.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://x.com/arca_rina)
 
 </div>
 
