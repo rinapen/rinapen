@@ -6,9 +6,10 @@
 
 **現在の天気 (大阪):** 曇り 13.5°C | 薄い雲
 
+<p align="center"> 
   <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
   <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117">
-</div>
+</p>
 
 <div align="center">
 
@@ -24,7 +25,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E9%9D%9E%E5%90%8C%E6%9C%9F%E5%87%A6%E7%90%86%E3%82%92%E9%81%A9%E5%88%87%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%80%81UI%E3%81%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%92%E9%81%BF%E3%81%91%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=SOLID%E5%8E%9F%E5%89%87%E3%82%92%E6%84%8F%E8%AD%98%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E6%8B%A1%E5%BC%B5%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%8C%E5%AE%9F%E7%8F%BE%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect
