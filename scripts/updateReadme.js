@@ -193,7 +193,7 @@ ${progressBar}  ${yearProgress}%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/rinapen)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://x.com/arca_rina)
+[![Email](https://img.shields.io/badge/Email-linden.classes__7e%40icloud.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:linden.classes_7e@icloud.com)
 
 </div>
 
