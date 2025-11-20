@@ -137,10 +137,6 @@ const generateProgressBar = (percentage, width = 40) => {
   const randomTip = getRandomTip();
 
   const content = `\
-![Location](https://img.shields.io/badge/Location-大阪,_日本-black?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-4年以上-black?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Learning-black?style=flat-square)
-
 **${today.getFullYear()}年の進捗:** \`${yearProgress}%\` 完了
 
 \`\`\`
@@ -148,12 +144,12 @@ ${progressBar}  ${yearProgress}%
 \`\`\`
 
 **現在の天気 (大阪):** ${weatherInfo}
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117">
-</p>
-
+<div align="center">
+  <p align="left"> 
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117">
+  </p>
+</div>
 ## Tech Stack
 
 <div align="center">
