@@ -4,9 +4,12 @@
 |-▣ R
 |-▣ 18yo
 |-▣ live in Osaka, Japan
+|-▣ linden.classes_7e@icloud.com
 |-▣ 大阪の今日の天気は曇り、気温は12.9°C、空模様は薄い雲です。
 |
 └───────────────────────────────▰▰▰
+
+2025: [=========================>....] 88.71 %（325/365）
 </pre>
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
@@ -24,16 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-005739?style=flat-square&logo=mongodb&logoColor=green)
 </div>
-
-<pre>
-┌──┤ contact ├─────────▰▰▰
-|
-|-▣ linden.classes_7e@icloud.com
-|
-└───────────────────────────────▰▰▰
-
-2025: [=========================>....] 88.71 %（325/365）
-</pre>
 
 <div align="center">
   <sub>Updated daily via GitHub Actions | 2025年11月20日</sub>
