@@ -1,4 +1,3 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=rinapen&color=61dafb&style=flat-square&label=Profile+Views)](https://github.com/rinapen)
 ![Location](https://img.shields.io/badge/Location-大阪,_日本-black?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-4年以上-black?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning-black?style=flat-square)
@@ -31,7 +30,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E6%88%A6%E7%95%A5%E3%82%92%E9%81%A9%E5%88%87%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B9%E9%80%9F%E5%BA%A6%E3%81%8C%E5%A4%A7%E5%B9%85%E3%81%AB%E5%90%91%E4%B8%8A%E3%81%97%E3%81%BE%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AA%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A7%E3%80%81%E3%82%B3%E3%83%BC%E3%83%89%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E5%81%A5%E5%85%A8%E6%80%A7%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect

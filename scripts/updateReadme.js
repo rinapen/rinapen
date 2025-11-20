@@ -137,7 +137,6 @@ const generateProgressBar = (percentage, width = 40) => {
   const randomTip = getRandomTip();
 
   const content = `\
-[![Profile Views](https://komarev.com/ghpvc/?username=rinapen&color=61dafb&style=flat-square&label=Profile+Views)](https://github.com/rinapen)
 ![Location](https://img.shields.io/badge/Location-大阪,_日本-black?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-4年以上-black?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning-black?style=flat-square)
