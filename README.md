@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
@@ -42,7 +42,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%80%81%E5%A4%9A%E6%A7%98%E3%81%AA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9FUX%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%8F%AF%E8%AA%AD%E6%80%A7%E3%81%AF%E4%BF%9D%E5%AE%88%E6%80%A7%E3%81%AB%E7%9B%B4%E7%B5%90%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E6%98%8E%E7%A2%BA%E3%81%AA%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87%E3%82%92%E5%BF%83%E3%81%8C%E3%81%91%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
 </div>
 
 ## Connect
