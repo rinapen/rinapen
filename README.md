@@ -11,10 +11,10 @@
 
 ---
 
-**2025年の進捗:** `88.68%` 完了
+**2025年の進捗:** `88.69%` 完了
 
 ```
-███████████████████████████████████░░░░░  88.68%
+███████████████████████████████████░░░░░  88.69%
 ```
 
 **現在の天気 (大阪):** 曇り 14.9°C | 薄い雲
@@ -25,11 +25,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
+## Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E3%81%AE%E7%AE%A1%E7%90%86%E3%81%8C%E3%82%88%E3%82%8A%E6%98%8E%E7%A2%BA%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=SOLID%E5%8E%9F%E5%89%87%E3%82%92%E6%84%8F%E8%AD%98%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E6%8B%A1%E5%BC%B5%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%8C%E5%AE%9F%E7%8F%BE%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect
