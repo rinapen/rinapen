@@ -158,7 +158,6 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 
 ${progressLine}
 \`\`\`
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapen&theme=onedark&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&show_icons=ture&bg_color=0d1117" />
