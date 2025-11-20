@@ -11,13 +11,13 @@
 
 ---
 
-**2025年の進捗:** `88.50%` 完了
+**2025年の進捗:** `88.68%` 完了
 
 ```
-███████████████████████████████████░░░░░  88.50%
+███████████████████████████████████░░░░░  88.68%
 ```
 
-**現在の天気 (大阪):** 天気情報を取得できませんでした
+**現在の天気 (大阪):** 曇り 14.9°C | 薄い雲
 
 </div>
 
@@ -46,7 +46,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%8C%96%E3%81%AB%E3%82%88%E3%82%8A%E3%80%81%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%86%8D%E5%88%A9%E7%94%A8%E6%80%A7%E3%81%A8%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%B9%E6%98%93%E6%80%A7%E3%81%8C%E5%90%91%E4%B8%8A%E3%81%97%E3%81%BE%E3%81%99" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B3%E3%83%BC%E3%83%89%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%82%92%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AB%E7%A2%BA%E8%AA%8D%E3%81%97%E3%80%81%E5%93%81%E8%B3%AA%E3%81%AE%E5%82%BE%E5%90%91%E3%82%92%E6%8A%8A%E6%8F%A1%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
 </div>
 
 ## Connect
@@ -54,7 +54,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/rinapen)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://x.com/arca_rina)
+[![Email](https://img.shields.io/badge/Email-linden.classes__7e%40icloud.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:linden.classes_7e@icloud.com)
 
 </div>
 
