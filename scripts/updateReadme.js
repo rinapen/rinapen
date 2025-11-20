@@ -146,8 +146,8 @@ ${progressBar}  ${yearProgress}%
 **現在の天気 (大阪):** ${weatherInfo}
 
 <p align="center"> 
-  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
-  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117">
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117">
 </p>
 
 <div align="center">
