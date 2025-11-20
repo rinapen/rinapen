@@ -7,8 +7,6 @@
 |-▣ 大阪の今日の天気は曇り、気温は12.9°C、空模様は薄い雲です。
 |
 └───────────────────────────────▰▰▰
-
-2025: [=========================>....] 88.70 %（325/365）
 </pre>
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
@@ -33,6 +31,8 @@
 |-▣ linden.classes_7e@icloud.com
 |
 └───────────────────────────────▰▰▰
+
+2025: [=========================>....] 88.71 %（325/365）
 </pre>
 
 <div align="center">
