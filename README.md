@@ -36,12 +36,5 @@
 ```
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/rinapen)
-[![Email](https://img.shields.io/badge/Email-linden.classes__7e%40icloud.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:linden.classes_7e@icloud.com)
-
-</div>
-
-<div align="center">
   <sub>Updated daily via GitHub Actions | 2025年11月20日</sub>
 </div>
