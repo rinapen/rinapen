@@ -146,7 +146,9 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
   const randomTip = getRandomTip();
 
   const content = `\
-${progressLine}
+\`\`\`
+  ${progressLine}
+\`\`\`
 
 **現在の天気 (大阪):** ${weatherInfo}
 
