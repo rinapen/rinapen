@@ -1,8 +1,7 @@
 ```
-  2025: [=========================>....] 88.70 %（325/365）
+**今日の大阪の天気は曇り 13.5°C | 薄い雲です**
+2025: [=========================>....] 88.70 %（325/365）
 ```
-
-**現在の天気 (大阪):** 曇り 13.5°C | 薄い雲
 
 <p align="center"> 
   <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">

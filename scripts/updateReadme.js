@@ -147,10 +147,9 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 
   const content = `\
 \`\`\`
-  ${progressLine}
+**今日の大阪の天気は${weatherInfo}です**
+${progressLine}
 \`\`\`
-
-**現在の天気 (大阪):** ${weatherInfo}
 
 <p align="center"> 
   <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
