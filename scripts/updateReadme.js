@@ -153,6 +153,7 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 |-▣ 18yo
 |-▣ live in Osaka, Japan
 |-▣ ${weatherInfo}
+|
 └───────────────────────────────▰▰▰
 
 ${progressLine}
