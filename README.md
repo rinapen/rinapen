@@ -22,12 +22,6 @@
 
 </div>
 
-## Daily Tech Tip
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=SOLID%E5%8E%9F%E5%89%87%E3%82%92%E6%84%8F%E8%AD%98%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E6%8B%A1%E5%BC%B5%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%8C%E5%AE%9F%E7%8F%BE%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99" alt="Tech Tip" />
-</div>
-
 ## Connect
 
 <div align="center">

@@ -161,12 +161,6 @@ ${progressBar}  ${yearProgress}%
 
 </div>
 
-## Daily Tech Tip
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=${encodeURIComponent(randomTip)}" alt="Tech Tip" />
-</div>
-
 ## Connect
 
 <div align="center">
