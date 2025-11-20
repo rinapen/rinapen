@@ -25,7 +25,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut-vertical" alt="Top Languages"/>
 </div>
 
 
@@ -46,7 +46,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5%E3%81%AF%E3%80%81%E5%9E%82%E7%9B%B4%E3%81%A8%E6%B0%B4%E5%B9%B3%E3%81%AE%E4%B8%A1%E6%96%B9%E3%82%92%E6%A4%9C%E8%A8%8E%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AF%E5%93%81%E8%B3%AA%E5%90%91%E4%B8%8A%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E3%80%81%E7%9F%A5%E8%AD%98%E5%85%B1%E6%9C%89%E3%81%AE%E5%A0%B4%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect
