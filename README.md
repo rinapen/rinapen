@@ -4,7 +4,7 @@
 |-▣ R
 |-▣ 18yo
 |-▣ live in Osaka, Japan
-|-▣ 大阪の今日の天気は曇り、気温は13.5°C、空模様は薄い雲です。
+|-▣ 大阪の今日の天気は曇り、気温は14.7°C、空模様は雲です。
 |
 └───────────────────────────────▰▰▰
 
@@ -18,6 +18,7 @@
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
