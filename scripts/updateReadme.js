@@ -21,7 +21,7 @@ const getWeatherInfo = async () => {
       const weather = response.data;
       console.log(weather);
       const weatherText = getWeatherEmoji(weather.weather[0].main);
-      return `${weatherText}。気温は${weather.main.temp.toFixed(1)}°C。空模様は${weather.weather[0].description}です。`;
+      return `大阪の今日の天気は${weatherText}\n気温は${weather.main.temp.toFixed(1)}°C\n空模様は${weather.weather[0].description}です。`;
   } catch (error) {
     return '天気情報を取得できませんでした';
   }
@@ -147,7 +147,7 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 
   const content = `\
 \`\`\`
-今日の大阪の天気は${weatherInfo}です。
+${weatherInfo}
 ${progressLine}
 \`\`\`
 
