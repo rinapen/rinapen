@@ -175,7 +175,13 @@ ${progressLine}
 
 </div>
 
-## Connect
+\`\`\`
+┌──┤ contact ├─────────▰▰▰
+|
+|-▣ linden.classes_7e@icloud.com
+|
+└───────────────────────────────▰▰▰
+\`\`\`
 
 <div align="center">
 
