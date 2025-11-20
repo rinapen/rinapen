@@ -4,7 +4,7 @@
 |-▣ R
 |-▣ 18yo
 |-▣ live in Osaka, Japan
-|-▣ 大阪の今日の天気は曇り、気温は14.7°C、空模様は雲です。
+|-▣ 大阪の今日の天気は曇り、気温は12.9°C、空模様は薄い雲です。
 |
 └───────────────────────────────▰▰▰
 
@@ -12,8 +12,8 @@
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapen&theme=onedark&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> 
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&show_icons=ture&bg_color=0d1117"/>
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&show_icons=ture&bg_color=0d1117" />
 </p>
 
 <div align="center">
