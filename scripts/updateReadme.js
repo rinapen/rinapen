@@ -147,7 +147,18 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 
   const content = `\
 \`\`\`
-${weatherInfo}
+-----|whoami|----------------▰▰▰
+|
+|-▣ R
+|-▣ 18yo
+|-▣ live in Osaka, Japan
+|
+-----|weather|---------------▰▰▰
+|
+|${weatherInfo}
+|
+-----------------------------▰▰▰
+
 ${progressLine}
 \`\`\`
 
