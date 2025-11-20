@@ -5,7 +5,7 @@
     ███████████████████████████████████░░░░░  88.69%
     ```
 
-    *現在の天気 (大阪):** 曇り 14.9°C | 薄い雲
+    *現在の天気 (大阪):** 曇り 13.5°C | 薄い雲 **
 
     <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117">
     <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117">
