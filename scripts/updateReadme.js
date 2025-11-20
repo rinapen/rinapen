@@ -119,10 +119,14 @@ const getYearProgress = () => {
 };
 
 // プログレスバーを生成
-const generateProgressBar = (percentage, width = 40) => {
-  const filled = Math.round((percentage / 100) * width);
-  const empty = width - filled;
-  return '█'.repeat(filled) + '░'.repeat(empty);
+const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 30) => {
+  const pct = Math.max(0, Math.min(percentage, 100));
+  const units = Math.max(width - 1, 1);
+  const filled = Math.min(units, Math.floor((pct / 100) * units));
+  const remaining = Math.max(units - filled, 0);
+  const bar = `${'='.repeat(filled)}>${'.'.repeat(remaining)}`;
+  const safeDaysElapsed = Math.min(daysElapsed, totalDays);
+  return `${year}: [${bar}] ${pct.toFixed(2)} %（${safeDaysElapsed}/${totalDays}）`;
 };
 
 // メイン実行関数
@@ -131,17 +135,18 @@ const generateProgressBar = (percentage, width = 40) => {
   const currentDate = today.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
   const currentTime = getCurrentTime();
 
-  const yearProgress = getYearProgress();
-  const progressBar = generateProgressBar(yearProgress);
+  const yearProgress = parseFloat(getYearProgress());
+  const startOfYear = new Date(today.getFullYear(), 0, 1);
+  const startOfNextYear = new Date(today.getFullYear() + 1, 0, 1);
+  const dayMs = 1000 * 60 * 60 * 24;
+  const totalDays = Math.round((startOfNextYear - startOfYear) / dayMs);
+  const daysElapsed = Math.min(Math.round((today - startOfYear) / dayMs) + 1, totalDays);
+  const progressLine = generateProgressLine(yearProgress, daysElapsed, totalDays, today.getFullYear());
   const weatherInfo = await getWeatherInfo();
   const randomTip = getRandomTip();
 
   const content = `\
-**${today.getFullYear()}年の進捗:** \`${yearProgress}%\` 完了
-
-\`\`\`
-${progressBar}  ${yearProgress}%
-\`\`\`
+${progressLine}
 
 **現在の天気 (大阪):** ${weatherInfo}
 
