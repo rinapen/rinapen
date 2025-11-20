@@ -137,18 +137,10 @@ const generateProgressBar = (percentage, width = 40) => {
   const randomTip = getRandomTip();
 
   const content = `\
-<div align="center">
-
-# Rinapen
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
-
 [![Profile Views](https://komarev.com/ghpvc/?username=rinapen&color=61dafb&style=flat-square&label=Profile+Views)](https://github.com/rinapen)
 ![Location](https://img.shields.io/badge/Location-大阪,_日本-black?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-4年以上-black?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning-black?style=flat-square)
-
----
 
 **${today.getFullYear()}年の進捗:** \`${yearProgress}%\` 完了
 
@@ -158,9 +150,6 @@ ${progressBar}  ${yearProgress}%
 
 **現在の天気 (大阪):** ${weatherInfo}
 
-</div>
-
-## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)

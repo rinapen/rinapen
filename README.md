@@ -1,15 +1,7 @@
-<div align="center">
-
-# Rinapen
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
-
 [![Profile Views](https://komarev.com/ghpvc/?username=rinapen&color=61dafb&style=flat-square&label=Profile+Views)](https://github.com/rinapen)
 ![Location](https://img.shields.io/badge/Location-大阪,_日本-black?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-4年以上-black?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning-black?style=flat-square)
-
----
 
 **2025年の進捗:** `88.69%` 完了
 
@@ -19,9 +11,6 @@
 
 **現在の天気 (大阪):** 曇り 14.9°C | 薄い雲
 
-</div>
-
-## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinapen&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&theme=tokyonight&layout=donut&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,7 +31,7 @@
 ## Daily Tech Tip
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%8F%AF%E8%AA%AD%E6%80%A7%E3%81%AF%E4%BF%9D%E5%AE%88%E6%80%A7%E3%81%AB%E7%9B%B4%E7%B5%90%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E6%98%8E%E7%A2%BA%E3%81%AA%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87%E3%82%92%E5%BF%83%E3%81%8C%E3%81%91%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Tech Tip" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=60&lines=%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E6%88%A6%E7%95%A5%E3%82%92%E9%81%A9%E5%88%87%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B9%E9%80%9F%E5%BA%A6%E3%81%8C%E5%A4%A7%E5%B9%85%E3%81%AB%E5%90%91%E4%B8%8A%E3%81%97%E3%81%BE%E3%81%99" alt="Tech Tip" />
 </div>
 
 ## Connect
