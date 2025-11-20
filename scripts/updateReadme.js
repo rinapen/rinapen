@@ -153,10 +153,10 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 |-▣ 18yo
 |-▣ live in Osaka, Japan
 |-▣ linden.classes_7e@icloud.com
-|-▣ ${weatherInfo}
 |
 └───────────────────────────────▰▰▰
 
+${weatherInfo}
 ${progressLine}
 </pre>
 <p align="center"> 
