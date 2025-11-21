@@ -8,8 +8,8 @@
 |
 └───────────────────────────────▰▰▰
 
-大阪の今日の天気は曇り、気温は12.9°C、空模様は薄い雲です。
-2025: [=========================>....] 88.71 %（325/365）
+天気情報を取得できませんでした
+2025: [=========================>....] 88.78 %（325/365）
 </pre>
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
@@ -29,5 +29,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2025年11月20日</sub>
+  <sub>Updated daily via GitHub Actions | 2025年11月21日</sub>
 </div>
