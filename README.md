@@ -8,8 +8,7 @@
 |
 └───────────────────────────────▰▰▰
 
-天気情報を取得できませんでした
-2025: [=========================>....] 88.78 %（325/365）
+2025: [=========================>....] 88.93 %（326/365）
 </pre>
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
