@@ -53,8 +53,8 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 ${progressLine}
 </pre>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&cache_seconds=21600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320&cache_seconds=21600" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&cache_seconds=21600" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320&cache_seconds=21600" />
 </p>
 
 <div align="center">
