@@ -8,7 +8,7 @@
 |
 └───────────────────────────────▰▰▰
 
-2025: [==========================>...] 89.94 %（329/365）
+2025: [==========================>...] 90.04 %（330/365）
 </pre>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2025年11月25日</sub>
+  <sub>Updated daily via GitHub Actions | 2025年11月26日</sub>
 </div>
