@@ -8,7 +8,7 @@
 |
 └───────────────────────────────▰▰▰
 
-2025: [==========================>...] 90.04 %（330/365）
+2025: [==========================>...] 89.93 %（329/365）
 </pre>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true" />
