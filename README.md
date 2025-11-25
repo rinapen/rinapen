@@ -8,7 +8,7 @@
 |
 └───────────────────────────────▰▰▰
 
-2025: [=========================>....] 89.00 %（326/365）
+2025: [==========================>...] 90.03 %（330/365）
 </pre>
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&hide_border=true&show_icons=true&theme=tokyonight&bg_color=0d1117" />
@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2025年11月21日</sub>
+  <sub>Updated daily via GitHub Actions | 2025年11月25日</sub>
 </div>
