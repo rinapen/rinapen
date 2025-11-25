@@ -23,5 +23,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2025年11月25日</sub>
+  <sub>Updated daily via GitHub Actions | 2025年11月26日</sub>
 </div>
