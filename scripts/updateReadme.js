@@ -1,8 +1,11 @@
 const fs = require('fs');
 require('dotenv').config();
 
-const getYearProgress = () => {
-  const now = new Date();
+const TZ = 'Asia/Tokyo';
+
+const getTokyoNow = () => new Date(new Date().toLocaleString('en-US', { timeZone: TZ }));
+
+const getYearProgress = (now = getTokyoNow()) => {
   const start = new Date(now.getFullYear(), 0, 1);
   const end = new Date(now.getFullYear(), 11, 31, 23, 59, 59);
   const progress = ((now - start) / (end - start)) * 100;
@@ -20,10 +23,15 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 };
 
 (async () => {
-  const today = new Date();
-  const currentDate = today.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+  const today = getTokyoNow();
+  const currentDate = today.toLocaleDateString('ja-JP', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    timeZone: TZ
+  });
   
-  const yearProgress = parseFloat(getYearProgress());
+  const yearProgress = parseFloat(getYearProgress(today));
   const startOfYear = new Date(today.getFullYear(), 0, 1);
   const startOfNextYear = new Date(today.getFullYear() + 1, 0, 1);
   const dayMs = 1000 * 60 * 60 * 24;
@@ -45,8 +53,8 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 ${progressLine}
 </pre>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&show_icons=true" />
 </p>
 
 <div align="center">

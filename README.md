@@ -11,8 +11,8 @@
 2025: [==========================>...] 90.04 %（330/365）
 </pre>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rinapen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinapen&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&show_icons=true" />
 </p>
 
 <div align="center">
