@@ -44,7 +44,7 @@ const generateProgressLine = (percentage, daysElapsed, totalDays, year, width = 
 ┌──┤ whoami ├─────────▰▰▰
 |
 |-▣ R
-|-▣ 18yo
+|-▣ 19yo
 |-▣ live in Osaka, Japan
 |-▣ linden.classes_7e@icloud.com
 |
