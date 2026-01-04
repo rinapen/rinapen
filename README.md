@@ -8,7 +8,7 @@
 |
 └───────────────────────────────▰▰▰
 
-2026: [>.............................] 0.94 %（4/365）
+2026: [>.............................] 1.00 %（5/365）
 </pre>
 
 
@@ -25,5 +25,5 @@
 </div>
 
 <div align="center">
-  <sub>Updated daily via GitHub Actions | 2026年1月4日</sub>
+  <sub>Updated daily via GitHub Actions | 2026年1月5日</sub>
 </div>
